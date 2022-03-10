@@ -2,7 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=JulioCRodrigues&color=green" alt="JulioCRodrigues" /> 
 
 
-- 🔭 Hoje trabalho com Frontend
+- 🔭 Hoje trabalho com Frontend e Mobile
 - 🌱 Estudando ReactJS e React Native para desenvolvimento mobile
 
  <div>
