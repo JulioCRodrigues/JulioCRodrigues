@@ -3,7 +3,7 @@
 
 
 - 🔭 Hoje trabalho com Frontend e Mobile
-- 🌱 Estudando ReactJS e React Native para desenvolvimento mobile
+- 🌱 Estudando Java e Flutter para desenvolvimento mobile
 
  <div>
   <a href="https://github.com/JulioCRodrigues">
